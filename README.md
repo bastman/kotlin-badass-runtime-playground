@@ -32,7 +32,19 @@ or simply:
 ```
 
 ```
+# how to distribute image as zip ?
+./gradlew runtimeZip
+```
+```
 # how to bundle as MacOS app?
-jpackage 
+Uses the jpackage tool to create a platform-specific application image.
+
+
 $ ./gradlew jpackageImage
+
+or 
+
+$ ./gradlew jpackage
+
+creates: build/jpackage/{app}.dmg
 ```
