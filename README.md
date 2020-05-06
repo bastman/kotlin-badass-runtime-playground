@@ -9,7 +9,8 @@ Note: installers can be created as well (task: jpackageImage, requires java 14+)
 
 ```
 
-
+# use java sdk from .sdkman
+sdk env
 
 # build image
 ./gradlew runtime
