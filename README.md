@@ -1,5 +1,8 @@
 # kotlin-badass-runtime-playground
-explore the badass-runtime plugin. create custom runtime images for non-modular applications in javaland.
+how to package / distribute java applications?
+
+Let's explore the badass-runtime plugin. 
+create custom runtime images for non-modular applications in javaland.
 
 see:
 - https://badass-runtime-plugin.beryx.org/releases/latest/
