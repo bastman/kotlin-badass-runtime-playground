@@ -8,7 +8,7 @@ see:
 - https://openjdk.java.net/jeps/343
 - https://badass-runtime-plugin.beryx.org/releases/latest/
 - https://github.com/beryx-gist/badass-runtime-example
-
+- https://github.com/tonsV2/jibcmd
 Note: installers can be created as well (task: jpackageImage, requires java 14+)
 
 ```
