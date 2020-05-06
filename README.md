@@ -5,6 +5,7 @@ Let's explore the badass-runtime plugin.
 create custom runtime images for non-modular applications in javaland.
 
 see:
+- https://openjdk.java.net/jeps/343
 - https://badass-runtime-plugin.beryx.org/releases/latest/
 - https://github.com/beryx-gist/badass-runtime-example
 
