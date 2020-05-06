@@ -12,6 +12,15 @@ see:
 Note: installers can be created as well (task: jpackageImage, requires java 14+)
 
 ```
+"The jpackage tool packages a Java application into a platform-specific package that includes all of the necessary dependencies. The application may be provided as a collection of ordinary JAR files or as a collection of modules. The supported platform-specific package formats are:
+ 
+ Linux: deb and rpm
+ macOS: pkg and dmg
+ Windows: msi and exe
+"
+```
+
+```
 
 # use java sdk from .sdkman
 sdk env
