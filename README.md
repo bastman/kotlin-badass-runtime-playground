@@ -30,3 +30,9 @@ or simply:
 # suggest modules
 ./gradlew suggestModules
 ```
+
+```
+# how to bundle as MacOS app?
+jpackage 
+$ ./gradlew jpackageImage
+```
